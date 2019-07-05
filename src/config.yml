@@ -1,0 +1,5 @@
+mysql:
+  conn: 'jdbc:mysql://127.0.0.1:3306/server?useSSL=false&autoReconnect=true&characterEncoding=utf-8&encoding=utf-8&useUnicode=true'
+  user: 'root'
+  pass: 'satori2333'
+  table: 'user'
